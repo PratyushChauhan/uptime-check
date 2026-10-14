@@ -4,6 +4,8 @@ repo: uptime-check
 sites:
   - name: Portfolio
     url: https://pratyushchauhan.github.io/portfolio/
+  - name: Custom Domain
+    url: https://pratyushchauhan.com/
 
 status-website:
   baseUrl: /uptime-check
