@@ -12,9 +12,27 @@
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 351,
-    "timeWeek": 298,
+    "timeWeek": 304,
     "timeMonth": 324,
     "timeYear": 219,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Custom Domain",
+    "url": "https://pratyushchauhan.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/pratyushchauhan.com.ico",
+    "slug": "custom-domain",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 101,
+    "timeDay": 101,
+    "timeWeek": 101,
+    "timeMonth": 101,
+    "timeYear": 101,
     "dailyMinutesDown": {}
   }
 ]
